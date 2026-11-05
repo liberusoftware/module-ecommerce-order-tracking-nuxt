@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-order-tracking-nuxt",
+  "capabilityKey": "planned:ecommerce:order-tracking",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-ecommerce-order-tracking-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/ecommerce/nextjs/order-tracking.md",
+  "presentationPlan": "projects/ecommerce/nuxt/order-tracking.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
